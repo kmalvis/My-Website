@@ -90,14 +90,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {Oiffce= "247 Kottman Hall", street = "2021 Coffey Road", city = "Columbus", region = "OH", postcode = "43201", country = "United States", country_code = "US"}
+address = {Office= "247 Kottman Hall", street = "2021 Coffey Road", city = "Columbus", region = "OH", postcode = "43201", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter Kottman Hall and take the stairs to Office 247 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
