@@ -57,6 +57,6 @@ user_groups:
 - Visitors
 ---
 
-Kayla Alvis is a PhD student in Environment and Nautral Resrouces with a specialization in Rural Sociology at the Ohio State University. Her research interests include health disparaities, spatial inequality, and social policy. She is a Board Certified Behavior Analyst with experience working with children with autism spectrum disorder and families indicated for child abuse and neglect. She is advised by Dr. Linda Lobao. 
+Kayla Alvis is a PhD student in Environment and Nautral Resrouces with a specialization in Rural Sociology at the Ohio State University. She is also pursuing an interdisciplinary graduate minor in Demography. Her research interests include health disparaities, spatial inequality, and social policy. She is a Board Certified Behavior Analyst with experience working with children with autism spectrum disorder and families indicated for child abuse and neglect. She is advised by Dr. Linda Lobao. 
  
 
