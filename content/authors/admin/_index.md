@@ -38,7 +38,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin-in
+- icon: linkedin-in https://www.linkedin.com/in/kayla-alvis-6b5a40196/
   icon_pack: fab
   link: 
 # Link to a PDF of your resume/CV from the About widget.
