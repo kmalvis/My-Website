@@ -109,7 +109,9 @@ office_hours = []
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
- # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+ {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/KaylaAlvis"},
+ {icon ="linkedin, incon_pack= "fab", name= Linked In, link ="https://www.linkedin.com/in/kayla-alvis-6b5a40196/"}
+ 
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
